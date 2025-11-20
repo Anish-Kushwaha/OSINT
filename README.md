@@ -1,4 +1,3 @@
-# 🗣 𝔸ℕ𝕀𝕊ℍ - 𝕂𝕌𝕊ℍ𝕎𝔸ℍ𝔸 ❤️‍🔥
 ## Social Media Finder OSINT Tool (OSINT v2.2)
 
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue?logo=python)
